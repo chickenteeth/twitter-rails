@@ -7,3 +7,5 @@ Ruby 2.7
 Rails 6.0.3.2
 
 Bootstrap 4.5
+
+And we'll see what else ends up happening
